@@ -8,7 +8,7 @@ This Excel-based HR Analytics Dashboard analyzes employee data to uncover insigh
 
 | File/Folder                  | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
-| `hr-employee-analysis.xlsx`  | Excel dataset containing employee records, demographics, and attrition data |
+| `hr_employee_analysis.xlsx`  | Excel dataset containing employee records, demographics, and attrition data |
 | `hr_analytics_dashboard_img.png` | Exported image of the HR Analytics dashboard                           |
 | `README.md`                  | Documentation and usage instructions                                        |
 
